@@ -57,3 +57,7 @@ body{
         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
     }
 }
+
+.hero{
+    background: linear-gradient(180deg, var(--grey) 70%, var(--light) 0);
+}
