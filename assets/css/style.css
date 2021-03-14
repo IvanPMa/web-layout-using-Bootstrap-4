@@ -26,3 +26,12 @@ body{
     padding-top: 8rem;
     padding-bottom: 8rem;
 }
+
+.btn {
+    padding: .75rem 1rem;
+    border-radius: .1rem;
+    font-weight: 700;
+}
+
+.btn-dark { background-color: var(--dark) !important; }
+.btn-outline-dark:hover { background-color: var(--dark) !important;}
