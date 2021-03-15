@@ -106,3 +106,8 @@ button:focus{
     background-color: var(--grey);
     color: var(--dark);
 }
+
+.user{
+    max-width: 50px;
+    border-radius: 100%;
+}
